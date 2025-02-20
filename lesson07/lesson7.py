@@ -1,6 +1,6 @@
 # Lesson 7
 #ask user to input DC
-Dc = int(input(Difficulty class: )
+Dc = int(input("Difficulty class: ")
 
 #Generate random number for the dice between 1-20
 import random
