@@ -4,7 +4,7 @@ Dc = int(input("Difficulty class: ")
 
 #Generate random number for the dice between 1-20
 import random
-D20 = (random(randrange(1, 20))
+D20 = (random.randrange(1, 20))
 print(f("Dice roll: {D20}")
 
 #output if user succeeds or fails ability check
