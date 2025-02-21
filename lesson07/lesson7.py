@@ -3,7 +3,7 @@
 Dc = int(input("Difficulty class: ")
 
 #Generate random number for the dice between 1-20
-import random
+from randomn import randrange
 D20 = (random.randrange(1, 20))
 print(f("Dice roll: {D20}")
 
